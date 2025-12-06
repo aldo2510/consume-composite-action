@@ -1,0 +1,1 @@
+# consume-composite-action
